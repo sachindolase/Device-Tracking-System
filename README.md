@@ -8,24 +8,23 @@ This project implements a real-time device tracking map using Node.js, Express, 
 4. Responsive Design: The application is designed to be responsive, ensuring usability across various devices.
 
 ## Technologies Used
-### Node.js: JavaScript runtime for building the server.
-### Express: Web framework for handling HTTP requests and routing.
-### Socket.io: Enables real-time, bi-directional communication between clients and the server.
-### HTML/CSS/JavaScript: Frontend technologies for building the user interface.
-### Leaflet/Google Maps: Mapping libraries for displaying the device locations.
-### Getting Started
-### Prerequisites
+1. Node.js: JavaScript runtime for building the server.
+2. Express: Web framework for handling HTTP requests and routing.
+3. Socket.io: Enables real-time, bi-directional communication between clients and the server.
+4. HTML/CSS/JavaScript: Frontend technologies for building the user interface.
+5. Leaflet/Google Maps: Mapping libraries for displaying the device locations.
+6. Getting Started
 
 ## Usage
-### Adding Devices: Use the provided interface to add new devices. Each device will need a unique identifier and initial location.
-### Tracking Devices: Once added, devices will send their location updates in real time, which will be reflected on the map.
-### Removing Devices: Devices can be removed from the tracking system through the interface.
-### Contributing: Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+1. Adding Devices: Use the provided interface to add new devices. Each device will need a unique identifier and initial location.
+2. Tracking Devices: Once added, devices will send their location updates in real time, which will be reflected on the map.
+3. Removing Devices: Devices can be removed from the tracking system through the interface.
+4. Contributing: Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
-### Socket.io for real-time communication.
-### Leaflet or Google Maps API for mapping functionality.
-### Express for simplifying server-side development.
+1. Socket.io for real-time communication.
+2. Leaflet or Google Maps API for mapping functionality.
+3. Express for simplifying server-side development.
 
 ## Screenshots:
 ![screenshot](https://github.com/user-attachments/assets/61445bf4-981d-40a9-8955-973b2742def9)
