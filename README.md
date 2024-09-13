@@ -2,10 +2,10 @@
 This project implements a real-time device tracking map using Node.js, Express, and Socket.io. The application allows users to visualize the location of devices on a map in real time, making it ideal for applications such as fleet management, delivery tracking, or personal device monitoring.
 
 ## Features
-### Real-Time Location Updates: Devices send their location to the server, which broadcasts updates to all connected clients using Socket.io.
-### Interactive Map: Integrates with mapping libraries like Leaflet or Google Maps to display device locations dynamically.
-### Device Management: Users can add, update, and remove devices from the tracking system.
-### Responsive Design: The application is designed to be responsive, ensuring usability across various devices.
+1. Real-Time Location Updates: Devices send their location to the server, which broadcasts updates to all connected clients using Socket.io.
+2. Interactive Map: Integrates with mapping libraries like Leaflet or Google Maps to display device locations dynamically.
+3. Device Management: Users can add, update, and remove devices from the tracking system.
+4. Responsive Design: The application is designed to be responsive, ensuring usability across various devices.
 
 ## Technologies Used
 ### Node.js: JavaScript runtime for building the server.
